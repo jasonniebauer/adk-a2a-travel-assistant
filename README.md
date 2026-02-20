@@ -14,7 +14,7 @@ This project modifies a previous project: [Local Explorer Assistant](https://git
 - Add a logging integrator component, to be able to monitor in one place all the logs from the A2A Servers; this uses the functionality from the new module `logging_ring.py` and a custom Streamlit UI.
 
 
-# Ho to run
+# How to run
 
 The instructions are for running the project on local
 
